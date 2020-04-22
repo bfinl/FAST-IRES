@@ -1,4 +1,4 @@
-We provide our code and data under a cc-by-sa-4.0 license, "as is" and without any gurantee to the scientific community for academic and research purposes primarily, not commercial use.
+We provide our code and data under a cc-by-sa-4.0 license, "As is" and without any gurantee to the scientific community for academic and research purposes primarily, not commercial use.
 
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
