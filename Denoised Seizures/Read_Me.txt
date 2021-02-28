@@ -1,1 +1,0 @@
-Use the code named "Combine_Sz_Data_Parts.m" in Codes folder to recombine the two files intoa signle file and then proceed with the sample code.
